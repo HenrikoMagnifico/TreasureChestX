@@ -1,0 +1,10 @@
+<component name="ArtifactManager">
+  <artifact type="jar" name="TreasureChestX">
+    <output-path>$USER_HOME$/Desktop/TreasureChestX_Output</output-path>
+    <root id="archive" name="TreasureChestX.jar">
+      <element id="module-output" name="TreasureChest" />
+      <element id="file-copy" path="$PROJECT_DIR$/src/main/resources/config.yml" />
+      <element id="file-copy" path="$PROJECT_DIR$/src/main/resources/plugin.yml" />
+    </root>
+  </artifact>
+</component>
