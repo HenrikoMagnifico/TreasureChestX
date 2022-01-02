@@ -7,3 +7,5 @@ An updated fork of a plugin for Minecraft that let's you create treasure chests 
 ### Mtihc, creator of the [original plugin](https://dev.bukkit.org/projects/treasurechest).
 
 ### Wolfezz, creator of [TreasureChest-Reloaded fork](https://www.spigotmc.org/resources/treasurechest-reloaded.1747/).
+
+##[Find out more about me and my projects on my website!](https://www.henrikomagnifico.com/)
