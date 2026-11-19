@@ -44,7 +44,7 @@ public class HealthReward implements IReward {
 
 	@Override
 	public void give(Player player) throws RewardException {
-		double maxHealth = player.getAttribute(Attribute.GENERIC_MAX_HEALTH).getValue();
+		double maxHealth = player.getAttribute(Attribute.MAX_HEALTH).getValue();
 		double health = player.getHealth() + getHealth() * maxHealth / 100;
 		if(health > maxHealth) {
 			health = maxHealth;
